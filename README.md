@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Vigneshwaran (Vicky)</h1>
-<h4 align="left">I am a software developer with an avid interest in cloud computing and devops. I love taking challenges and love being part of the solution.</h4>
+<h4 align="left">I am a software developer with an avid interest in developing Web apps, Data Structures, Algorithms and Optimization. I love taking challenges and love being part of the solution.</h4>
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **Software Deveopment, DSA & System design**
 
 - 📫 How to reach me **vigneshwaran2.work@gmail.com**
 
@@ -33,7 +33,7 @@
       </a>
       <a href="https://aws.amazon.com/" target="_blank">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
           alt="aws"
           width="40"
           height="40"
@@ -71,26 +71,26 @@
       height="40"
     />
   </a>
-  <a href="https://prometheus.io/" target="_blank">
+  <a href="https://heroku.com" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg"
-      alt="prometheus"
+      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+      alt="heroku"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://grafana.com/" target="_blank">
+  <a href="https://www.w3.org/html/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg"
-      alt="grafana"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.terraform.io/" target="_blank">
+  <a href="https://www.w3schools.com/css/" target="_blank">
     <img
-      src="https://github.com/devicons/devicon/raw/master/icons/terraform/terraform-original-wordmark.svg"
-      alt="terraform"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
       width="40"
       height="40"
     />
