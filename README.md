@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Vigneshwaran (Vicky)</h1>
 <h4 align="left">I am a software developer with an avid interest in cloud computing and devops. I love taking challenges and love being part of the solution.</h4>
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **devops**
 
 - 📫 How to reach me **vigneshwaran2.work@gmail.com**
 
