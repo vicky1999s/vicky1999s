@@ -128,14 +128,3 @@
     />
   </a>
 </p>
-
-<h3 align="center">
-  <p>Lets connect</p>
-<a href="https://www.linkedin.com/in/vigneshwaran-s-196125235/" target="blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-       alt="linkedin"
-       width="40"
-       height="40"
-       />
-    </a>
-</h3>
